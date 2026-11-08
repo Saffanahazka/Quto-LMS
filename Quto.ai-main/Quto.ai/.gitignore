@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+quto_data.db
+quto_data.db-*
+.venv/
+__pycache__/
+*.py[cod]
